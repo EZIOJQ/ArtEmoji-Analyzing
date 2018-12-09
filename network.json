@@ -1,0 +1,2581 @@
+{
+  "nodes": [
+    {
+      "id": "Drake",
+      "group": 0
+    },
+    {
+      "id": "Post Malone",
+      "group": 0
+    },
+    {
+      "id": "Ed Sheeran",
+      "group": 0
+    },
+    {
+      "id": "Taylor Swift",
+      "group": 0
+    },
+    {
+      "id": "Cardi B",
+      "group": 0
+    },
+    {
+      "id": "XXXTENTACION",
+      "group": 0
+    },
+    {
+      "id": "Imagine Dragons",
+      "group": 0
+    },
+    {
+      "id": "BTS",
+      "group": 0
+    },
+    {
+      "id": "Bruno Mars",
+      "group": 0
+    },
+    {
+      "id": "Camila Cabello",
+      "group": 0
+    },
+    {
+      "id": "Migos",
+      "group": 0
+    },
+    {
+      "id": "Travis Scott",
+      "group": 0
+    },
+    {
+      "id": "Eminem",
+      "group": 0
+    },
+    {
+      "id": "Ariana Grande",
+      "group": 0
+    },
+    {
+      "id": "Kendrick Lamar",
+      "group": 0
+    },
+    {
+      "id": "Maroon 5",
+      "group": 0
+    },
+    {
+      "id": "Juice WRLD",
+      "group": 0
+    },
+    {
+      "id": "Khalid",
+      "group": 0
+    },
+    {
+      "id": "Dua Lipa",
+      "group": 0
+    },
+    {
+      "id": "Halsey",
+      "group": 0
+    },
+    {
+      "id": "P!nk",
+      "group": 0
+    },
+    {
+      "id": "J. Cole",
+      "group": 0
+    },
+    {
+      "id": "The Weeknd",
+      "group": 0
+    },
+    {
+      "id": "Justin Timberlake",
+      "group": 0
+    },
+    {
+      "id": "Sam Smith",
+      "group": 0
+    },
+    {
+      "id": "Nicki Minaj",
+      "group": 0
+    },
+    {
+      "id": "Demi Lovato",
+      "group": 0
+    },
+    {
+      "id": "6ix9ine",
+      "group": 0
+    },
+    {
+      "id": "Chris Stapleton",
+      "group": 0
+    },
+    {
+      "id": "Shawn Mendes",
+      "group": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Drake",
+      "target": "\ud83c\udf0e",
+      "value": 81
+    },
+    {
+      "source": "Drake",
+      "target": "\ud83d\ude31",
+      "value": 1
+    },
+    {
+      "source": "Drake",
+      "target": "\ud83d\udd25",
+      "value": 3
+    },
+    {
+      "source": "Drake",
+      "target": "\ud83d\ude4f",
+      "value": 1
+    },
+    {
+      "source": "Drake",
+      "target": "\u2705",
+      "value": 1
+    },
+    {
+      "source": "Drake",
+      "target": "\ud83d\udde3",
+      "value": 1
+    },
+    {
+      "source": "Drake",
+      "target": "\ud83c\udf08",
+      "value": 1
+    },
+    {
+      "source": "Drake",
+      "target": "\u270d",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83d\udc46",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83d\udc48",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\u2705",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83d\udd74",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83d\udcbf",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83c\udfa7",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83c\udfb5",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83c\udfb6",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83e\udd83",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83c\udf42",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83c\udf41",
+      "value": 1
+    },
+    {
+      "source": "Post Malone",
+      "target": "\ud83d\ude4f",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\ude14",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\udd25",
+      "value": 22
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83c\udf89",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\ude4f",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\ude06",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\ude2d",
+      "value": 17
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\ude0d",
+      "value": 4
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\ude11",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\udc4c",
+      "value": 6
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83c\udfa4",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\udc96",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\ude4c",
+      "value": 5
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83c\udfb5",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83c\udfb8",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\udc4f",
+      "value": 5
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83e\udd1e",
+      "value": 3
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\udc83",
+      "value": 5
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83e\udd17",
+      "value": 2
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\udc93",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83e\udd14",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\udc76",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\udca5",
+      "value": 1
+    },
+    {
+      "source": "Ed Sheeran",
+      "target": "\ud83d\udda4",
+      "value": 1
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\ude43",
+      "value": 1
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\udc0d",
+      "value": 17
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\udc1d",
+      "value": 8
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\u2728",
+      "value": 1
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\ude02",
+      "value": 2
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\ude0d",
+      "value": 7
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\u2764",
+      "value": 2
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\ude1a",
+      "value": 1
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\ude2d",
+      "value": 3
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\udd25",
+      "value": 2
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83e\udd14",
+      "value": 3
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\udda4",
+      "value": 2
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\ude4f",
+      "value": 1
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83d\ude05",
+      "value": 3
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83c\udf41",
+      "value": 1
+    },
+    {
+      "source": "Taylor Swift",
+      "target": "\ud83e\udd36",
+      "value": 1
+    },
+    {
+      "source": "Cardi B",
+      "target": "\ud83d\ude02",
+      "value": 4
+    },
+    {
+      "source": "Cardi B",
+      "target": "\ud83e\udd23",
+      "value": 3
+    },
+    {
+      "source": "Cardi B",
+      "target": "\ud83d\ude2e",
+      "value": 1
+    },
+    {
+      "source": "Cardi B",
+      "target": "\ud83d\udc80",
+      "value": 1
+    },
+    {
+      "source": "Cardi B",
+      "target": "\ud83c\udfac",
+      "value": 1
+    },
+    {
+      "source": "Cardi B",
+      "target": "\ud83d\ude2d",
+      "value": 2
+    },
+    {
+      "source": "Cardi B",
+      "target": "\u264e",
+      "value": 2
+    },
+    {
+      "source": "Cardi B",
+      "target": "\ud83d\ude29",
+      "value": 1
+    },
+    {
+      "source": "Cardi B",
+      "target": "\ud83e\udd2a",
+      "value": 1
+    },
+    {
+      "source": "Cardi B",
+      "target": "\ud83e\udd2d",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude2d",
+      "value": 9
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83e\udd26",
+      "value": 2
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\u2642",
+      "value": 3
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\udd25",
+      "value": 11
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\udca9",
+      "value": 10
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude4c",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude02",
+      "value": 4
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\udc79",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude08",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83c\udfa7",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83c\udfa4",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83c\udf89",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83c\udf81",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83e\udd1f",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83c\udfb6",
+      "value": 2
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude1e",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83e\udd14",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude2a",
+      "value": 2
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude28",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83e\udd37",
+      "value": 2
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\u2640",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\u203c",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\u2764",
+      "value": 3
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\udd4a",
+      "value": 3
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\udda4",
+      "value": 2
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude0d",
+      "value": 9
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83e\udde1",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83e\udd8b",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83c\udf92",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\udcbb",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude4f",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83d\ude15",
+      "value": 1
+    },
+    {
+      "source": "XXXTENTACION",
+      "target": "\ud83e\udd23",
+      "value": 1
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83d\udc3b",
+      "value": 1
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83d\udda4",
+      "value": 6
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83c\udfbc",
+      "value": 1
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83d\ude14",
+      "value": 2
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83d\ude15",
+      "value": 2
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83d\udc4c",
+      "value": 2
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\u2764",
+      "value": 4
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83d\udd25",
+      "value": 3
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\u2665",
+      "value": 1
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83d\ude3b",
+      "value": 3
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83d\udc95",
+      "value": 1
+    },
+    {
+      "source": "Imagine Dragons",
+      "target": "\ud83d\ude0d",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\u25b6",
+      "value": 3
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udeec",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\u00a9",
+      "value": 5
+    },
+    {
+      "source": "BTS",
+      "target": "\u2728",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc51",
+      "value": 2
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc95",
+      "value": 3
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83e\udd2a",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udcce",
+      "value": 2
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc9c",
+      "value": 5
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83e\udd17",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf0c",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf82",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf84",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\u2603",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf9f",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf81",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc41",
+      "value": 2
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc2f",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf0e",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc4f",
+      "value": 4
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc3f",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc40",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc31",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\u2600",
+      "value": 3
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udcf8",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf40",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udfa5",
+      "value": 2
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\ude31",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\ude2d",
+      "value": 9
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\ude48",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83e\udd24",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\ude06",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\ude0d",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\ude4c",
+      "value": 2
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udcf0",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udcab",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf19",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udcc6",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udccd",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf38",
+      "value": 2
+    },
+    {
+      "source": "BTS",
+      "target": "\u2757",
+      "value": 4
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\ude03",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83c\udf85",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\ude2b",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\u263a",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\ude00",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc36",
+      "value": 1
+    },
+    {
+      "source": "BTS",
+      "target": "\ud83d\udc3e",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\u26d4",
+      "value": 6
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83d\ude0d",
+      "value": 4
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\u2705",
+      "value": 3
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\u2714",
+      "value": 4
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83c\udfb9",
+      "value": 4
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83c\udf39",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\u2764",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83e\udd23",
+      "value": 3
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\u26cf",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83d\udc73",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83c\udf6f",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83d\udcb0",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83e\uddda",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83d\udcb8",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83e\udd83",
+      "value": 2
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83e\udd32",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83c\udfb5",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83d\udcf9",
+      "value": 1
+    },
+    {
+      "source": "Bruno Mars",
+      "target": "\ud83d\udcf7",
+      "value": 6
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udd08",
+      "value": 17
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83c\udfb6",
+      "value": 18
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\ude0d",
+      "value": 13
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\u2764",
+      "value": 5
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83c\udf19",
+      "value": 2
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udc4f",
+      "value": 2
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\ude2d",
+      "value": 12
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udc95",
+      "value": 6
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\u2728",
+      "value": 2
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udc83",
+      "value": 2
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83e\udd8b",
+      "value": 3
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udc9b",
+      "value": 1
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udc78",
+      "value": 2
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udc51",
+      "value": 2
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\ude4c",
+      "value": 1
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\ude22",
+      "value": 2
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udc96",
+      "value": 9
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udcaa",
+      "value": 1
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83c\udfc6",
+      "value": 7
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udc93",
+      "value": 8
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83c\udf89",
+      "value": 2
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udc97",
+      "value": 1
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\ude1e",
+      "value": 3
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83e\udd17",
+      "value": 1
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\ude09",
+      "value": 1
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\ud83d\udda4",
+      "value": 1
+    },
+    {
+      "source": "Camila Cabello",
+      "target": "\u263a",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udc40",
+      "value": 4
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\ude02",
+      "value": 3
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udd25",
+      "value": 14
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83e\udd14",
+      "value": 2
+    },
+    {
+      "source": "Migos",
+      "target": "\u2665",
+      "value": 15
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83c\udf36",
+      "value": 14
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udca8",
+      "value": 2
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udd37",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udcb8",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udcb5",
+      "value": 2
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udcec",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83c\udf99",
+      "value": 3
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83c\udf84",
+      "value": 3
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udca3",
+      "value": 2
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83c\udfa7",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udeac",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udcb0",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83c\udfb6",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83e\udd40",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\u2935",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\ude05",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udca5",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\u27b0",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udc95",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udde3",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83c\udfac",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83e\udd8d",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\u270a",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udcaa",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\u203c",
+      "value": 3
+    },
+    {
+      "source": "Migos",
+      "target": "\u2764",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\ude24",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\ude22",
+      "value": 2
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\ude0e",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83e\uddd4",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udc51",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udeab",
+      "value": 3
+    },
+    {
+      "source": "Migos",
+      "target": "\u2705",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83e\udde2",
+      "value": 2
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\ude99",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83c\udfa4",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\ude4f",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\ude15",
+      "value": 1
+    },
+    {
+      "source": "Migos",
+      "target": "\ud83d\udca9",
+      "value": 1
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83d\ude42",
+      "value": 1
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83e\udd2e",
+      "value": 1
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83d\udcab",
+      "value": 1
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83d\udc40",
+      "value": 2
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83d\uddde",
+      "value": 2
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83c\udfa5",
+      "value": 2
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83d\udcaa",
+      "value": 2
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83d\udc4f",
+      "value": 6
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83d\udde3",
+      "value": 1
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83d\udcaf",
+      "value": 1
+    },
+    {
+      "source": "Travis Scott",
+      "target": "\ud83c\udfa7",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83c\udf8a",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udc51",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udc4a",
+      "value": 2
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83e\udd17",
+      "value": 5
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\ude0d",
+      "value": 5
+    },
+    {
+      "source": "Eminem",
+      "target": "\u2600",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83c\udf4c",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83c\udf53",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\ude30",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\ude0f",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\ude08",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udcaf",
+      "value": 3
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udcf2",
+      "value": 2
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udcfb",
+      "value": 2
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udcfa",
+      "value": 2
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udc4c",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udca1",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83e\udd18",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udcaa",
+      "value": 2
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83c\udf82",
+      "value": 2
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udc40",
+      "value": 2
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83e\udd23",
+      "value": 6
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83e\udd14",
+      "value": 2
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udd25",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\udca9",
+      "value": 1
+    },
+    {
+      "source": "Eminem",
+      "target": "\ud83d\ude4f",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\udc8b",
+      "value": 11
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\udcab",
+      "value": 17
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\u2728",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\udcf9",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\ude18",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\udc85",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\ude09",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83c\udfa8",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\u2601",
+      "value": 6
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83c\udf84",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\udc9c",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\ude2d",
+      "value": 2
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\u2764",
+      "value": 42
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\ude4f",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\ude48",
+      "value": 1
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\udc97",
+      "value": 2
+    },
+    {
+      "source": "Ariana Grande",
+      "target": "\ud83d\udc8d",
+      "value": 1
+    },
+    {
+      "source": "Kendrick Lamar",
+      "target": "\ud83d\udc81",
+      "value": 1
+    },
+    {
+      "source": "Kendrick Lamar",
+      "target": "\u2640",
+      "value": 1
+    },
+    {
+      "source": "Maroon 5",
+      "target": "\ud83c\udfb6",
+      "value": 8
+    },
+    {
+      "source": "Maroon 5",
+      "target": "\ud83d\udd25",
+      "value": 1
+    },
+    {
+      "source": "Maroon 5",
+      "target": "\ud83d\ude43",
+      "value": 1
+    },
+    {
+      "source": "Maroon 5",
+      "target": "\ud83d\udc9e",
+      "value": 1
+    },
+    {
+      "source": "Maroon 5",
+      "target": "\ud83e\udd32",
+      "value": 1
+    },
+    {
+      "source": "Juice WRLD",
+      "target": "\ud83d\udd25",
+      "value": 12
+    },
+    {
+      "source": "Juice WRLD",
+      "target": "\ud83c\udf0e",
+      "value": 14
+    },
+    {
+      "source": "Khalid",
+      "target": "\u2705",
+      "value": 2
+    },
+    {
+      "source": "Khalid",
+      "target": "\u2b07",
+      "value": 1
+    },
+    {
+      "source": "Khalid",
+      "target": "\u2728",
+      "value": 1
+    },
+    {
+      "source": "Khalid",
+      "target": "\ud83c\udfb6",
+      "value": 1
+    },
+    {
+      "source": "Khalid",
+      "target": "\ud83d\udc8e",
+      "value": 1
+    },
+    {
+      "source": "Khalid",
+      "target": "\ud83d\udc95",
+      "value": 1
+    },
+    {
+      "source": "Khalid",
+      "target": "\ud83d\ude0d",
+      "value": 3
+    },
+    {
+      "source": "Dua Lipa",
+      "target": "\ud83d\udcf8",
+      "value": 1
+    },
+    {
+      "source": "Dua Lipa",
+      "target": "\ud83d\ude0d",
+      "value": 1
+    },
+    {
+      "source": "Dua Lipa",
+      "target": "\u2764",
+      "value": 2
+    },
+    {
+      "source": "Dua Lipa",
+      "target": "\ud83d\udd8a",
+      "value": 1
+    },
+    {
+      "source": "Dua Lipa",
+      "target": "\ud83d\udda4",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udc99",
+      "value": 9
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83c\udf0e",
+      "value": 22
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udd1f",
+      "value": 22
+    },
+    {
+      "source": "Halsey",
+      "target": "\u2764",
+      "value": 6
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udc94",
+      "value": 3
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83c\udfb6",
+      "value": 3
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udda4",
+      "value": 3
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\ude4f",
+      "value": 4
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83e\udd8b",
+      "value": 4
+    },
+    {
+      "source": "Halsey",
+      "target": "\u2728",
+      "value": 4
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udc95",
+      "value": 5
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83e\udd29",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udc97",
+      "value": 2
+    },
+    {
+      "source": "Halsey",
+      "target": "\u2b50",
+      "value": 4
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udd38",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udc85",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83c\udf2a",
+      "value": 2
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83c\udfc6",
+      "value": 2
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83e\udd47",
+      "value": 2
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udd25",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udca6",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\ude4c",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\u2639",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udc96",
+      "value": 2
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\udc4d",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83d\ude18",
+      "value": 1
+    },
+    {
+      "source": "Halsey",
+      "target": "\ud83e\udd23",
+      "value": 1
+    },
+    {
+      "source": "J. Cole",
+      "target": "\ud83d\udd25",
+      "value": 12
+    },
+    {
+      "source": "J. Cole",
+      "target": "\ud83c\udf0d",
+      "value": 1
+    },
+    {
+      "source": "J. Cole",
+      "target": "\ud83e\uddda",
+      "value": 1
+    },
+    {
+      "source": "J. Cole",
+      "target": "\u2640",
+      "value": 1
+    },
+    {
+      "source": "J. Cole",
+      "target": "\ud83c\udfb6",
+      "value": 2
+    },
+    {
+      "source": "J. Cole",
+      "target": "\ud83c\udfa7",
+      "value": 2
+    },
+    {
+      "source": "J. Cole",
+      "target": "\ud83d\ude0a",
+      "value": 27
+    },
+    {
+      "source": "J. Cole",
+      "target": "\ud83d\udcaf",
+      "value": 1
+    },
+    {
+      "source": "J. Cole",
+      "target": "\ud83d\ude4f",
+      "value": 1
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\ud83c\udfab",
+      "value": 2
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\ud83d\udc47",
+      "value": 1
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\ud83d\udc46",
+      "value": 1
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\ud83d\udc48",
+      "value": 1
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\u2705",
+      "value": 1
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\ud83d\udd74",
+      "value": 1
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\ud83d\udc83",
+      "value": 2
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\ud83d\ude0a",
+      "value": 2
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\ud83c\udfb6",
+      "value": 2
+    },
+    {
+      "source": "The Weeknd",
+      "target": "\ud83d\udd25",
+      "value": 2
+    },
+    {
+      "source": "Justin Timberlake",
+      "target": "\u2764",
+      "value": 5
+    },
+    {
+      "source": "Justin Timberlake",
+      "target": "\ud83c\udfb5",
+      "value": 3
+    },
+    {
+      "source": "Justin Timberlake",
+      "target": "\ud83c\udf1f",
+      "value": 1
+    },
+    {
+      "source": "Justin Timberlake",
+      "target": "\ud83d\udd25",
+      "value": 1
+    },
+    {
+      "source": "Justin Timberlake",
+      "target": "\ud83d\ude0a",
+      "value": 1
+    },
+    {
+      "source": "Justin Timberlake",
+      "target": "\ud83d\ude0b",
+      "value": 1
+    },
+    {
+      "source": "Justin Timberlake",
+      "target": "\ud83d\ude0d",
+      "value": 1
+    },
+    {
+      "source": "Sam Smith",
+      "target": "\ud83d\ude31",
+      "value": 1
+    },
+    {
+      "source": "Sam Smith",
+      "target": "\u203c",
+      "value": 2
+    },
+    {
+      "source": "Sam Smith",
+      "target": "\ud83d\udcaa",
+      "value": 1
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83e\udd84",
+      "value": 16
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\udc51",
+      "value": 8
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83e\udd2c",
+      "value": 30
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\ude21",
+      "value": 20
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\ude24",
+      "value": 4
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\ude22",
+      "value": 10
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\udc95",
+      "value": 19
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\udc96",
+      "value": 1
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\udd25",
+      "value": 11
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\udc99",
+      "value": 3
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\u2757",
+      "value": 5
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83e\udd37",
+      "value": 2
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\u2642",
+      "value": 2
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\udc97",
+      "value": 3
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\u2764",
+      "value": 2
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\udc94",
+      "value": 1
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83c\udf6a",
+      "value": 10
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\ude0d",
+      "value": 4
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\ude4a",
+      "value": 4
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83c\udfb6",
+      "value": 1
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\u26a0",
+      "value": 2
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\ude02",
+      "value": 4
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83e\udd5b",
+      "value": 1
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\udda4",
+      "value": 5
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\ude4c",
+      "value": 1
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\udc45",
+      "value": 5
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\ude05",
+      "value": 1
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\ud83d\ude2d",
+      "value": 4
+    },
+    {
+      "source": "Nicki Minaj",
+      "target": "\u203c",
+      "value": 4
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\u2665",
+      "value": 2
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83d\udc8e",
+      "value": 7
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83d\udc97",
+      "value": 7
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83d\ude21",
+      "value": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83d\ude2d",
+      "value": 10
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83c\udfa4",
+      "value": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83c\udfb6",
+      "value": 3
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83e\udd26",
+      "value": 5
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\u2640",
+      "value": 5
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83e\udd29",
+      "value": 7
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\u263a",
+      "value": 3
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83d\ude49",
+      "value": 4
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83d\udd0e",
+      "value": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83e\udd2a",
+      "value": 1
+    },
+    {
+      "source": "Demi Lovato",
+      "target": "\ud83c\udf39",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\ude02",
+      "value": 12
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udea8",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\ude46",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\u2642",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udebe",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc40",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83e\udd23",
+      "value": 4
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udd25",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc99",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc9a",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc9b",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\u2764",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udcaf",
+      "value": 3
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udcf2",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udcfb",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udcfa",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udcb8",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udcb5",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\u2705",
+      "value": 3
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\u2b07",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\ude14",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83c\udfc6",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc4f",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\ude2b",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\ude29",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83e\udd14",
+      "value": 3
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\ude48",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc66",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc68",
+      "value": 8
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc69",
+      "value": 7
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83e\uddd1",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc76",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc67",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc71",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\u2640",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc72",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc74",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc73",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83e\uddd4",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83c\udfa7",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\u2763",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83c\udfb5",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83c\udfb6",
+      "value": 2
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83e\udd28",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc10",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\u267f",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udca4",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83c\udf0e",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\udc3a",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\u23f3",
+      "value": 1
+    },
+    {
+      "source": "6ix9ine",
+      "target": "\ud83d\ude32",
+      "value": 1
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83c\udfbc",
+      "value": 1
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83e\udd2f",
+      "value": 1
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83d\ude0d",
+      "value": 5
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\u2764",
+      "value": 6
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83e\udde1",
+      "value": 1
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83e\udd29",
+      "value": 3
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83d\ude0f",
+      "value": 2
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83d\ude22",
+      "value": 1
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83c\udf46",
+      "value": 2
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83d\udc45",
+      "value": 1
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83d\ude29",
+      "value": 1
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\ud83c\udf43",
+      "value": 4
+    },
+    {
+      "source": "Shawn Mendes",
+      "target": "\u2665",
+      "value": 1
+    }
+  ]
+}

@@ -4,6 +4,7 @@ from Scrap import *
 import emoji
 import base64
 import requests
+import os
 
 
 
@@ -55,7 +56,6 @@ def search_twitter(name):
     return Twitter_cache.get(url)
 
 
-artists_lst = get_top_billboard(2018, "top artists")[:10]
 # print(search_twitter("Ed sheeran"))
 
 def get_emoji(twitter_data):
@@ -85,11 +85,21 @@ def whole_emoji_dict(artists_lst):
         except :
             print("No emoji Found")
             continue
+    with open("whole_dict.json","w") as f:
+        f.write(json.dumps(whole_dict,indent = 4))
     return [whole_dict, whole_dict_sorted]
 
+
+
+
+
+artists_lst = get_top_billboard(2018, "top artists")[:30]
+
 whole_dict = whole_emoji_dict(artists_lst)[0]
+
 whole_dict_sorted = whole_emoji_dict(artists_lst)[1]
-print(whole_dict_sorted)
+
+print(whole_dict)
 
 
 
