@@ -1,7 +1,0 @@
-# Here is your twitter api key and secret key
-Twitter_API_keys = "cRu8av1Z9ZThlZ1w89FCLe8MY"
-Twitter_secret_keys = "RGzsChyii5gh4fw3tZsXLFJcVkrSSesYmeLdvu4wRkcmbapbir"
-account_type =  "premium"
-endpoint =  “https://api.twitter.com/1.1/tweets/search/fullarchive/DurationMemo.json"
-
-

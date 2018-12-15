@@ -8,13 +8,8 @@ import requests
 
 
 lst_url = []
-
-
 Cache_name = "Artists_cache.json"
-
 artists_cache = Cache(Cache_name)
-
-
 def check_cache(lst_url):
 
     for url in lst_url:

@@ -2,123 +2,1077 @@
   "nodes": [
     {
       "id": "Drake",
-      "group": 0
+      "group": 0,
+      "photo": "img/drake.jpg"
     },
     {
       "id": "Post Malone",
-      "group": 0
+      "group": 0,
+      "photo": "img/post-malone.jpg"
     },
     {
       "id": "Ed Sheeran",
-      "group": 0
+      "group": 0,
+      "photo": "img/ed-sheeran.jpg"
     },
     {
       "id": "Taylor Swift",
-      "group": 0
+      "group": 0,
+      "photo": "img/taylor-swift.jpg"
     },
     {
       "id": "Cardi B",
-      "group": 0
+      "group": 0,
+      "photo": "img/cardi-b.jpg"
     },
     {
       "id": "XXXTENTACION",
-      "group": 0
+      "group": 0,
+      "photo": "img/xxxtentacion.jpg"
     },
     {
       "id": "Imagine Dragons",
-      "group": 0
+      "group": 0,
+      "photo": "img/imagine-dragons.jpg"
     },
     {
       "id": "BTS",
-      "group": 0
+      "group": 0,
+      "photo": "img/bts.jpg"
     },
     {
       "id": "Bruno Mars",
-      "group": 0
+      "group": 0,
+      "photo": "img/bruno-mars.jpg"
     },
     {
       "id": "Camila Cabello",
-      "group": 0
+      "group": 0,
+      "photo": "img/camila-cabello.jpg"
     },
     {
       "id": "Migos",
-      "group": 0
+      "group": 0,
+      "photo": "img/migos.jpg"
     },
     {
       "id": "Travis Scott",
-      "group": 0
+      "group": 0,
+      "photo": "img/travis-scott.jpg"
     },
     {
       "id": "Eminem",
-      "group": 0
+      "group": 0,
+      "photo": "img/eminem.jpg"
     },
     {
       "id": "Ariana Grande",
-      "group": 0
+      "group": 0,
+      "photo": "img/ariana-grande.jpg"
     },
     {
       "id": "Kendrick Lamar",
-      "group": 0
+      "group": 0,
+      "photo": "img/kendrick-lamar.jpg"
     },
     {
       "id": "Maroon 5",
-      "group": 0
+      "group": 0,
+      "photo": "img/maroon-5.jpg"
     },
     {
       "id": "Juice WRLD",
-      "group": 0
+      "group": 0,
+      "photo": "img/juice-wrld.jpg"
     },
     {
       "id": "Khalid",
-      "group": 0
+      "group": 0,
+      "photo": "img/khalid.jpg"
     },
     {
       "id": "Dua Lipa",
-      "group": 0
+      "group": 0,
+      "photo": "img/dua-lipa.jpg"
     },
     {
       "id": "Halsey",
-      "group": 0
+      "group": 0,
+      "photo": "img/halsey.jpg"
     },
     {
       "id": "P!nk",
-      "group": 0
+      "group": 0,
+      "photo": "img/p!nk.jpg"
     },
     {
       "id": "J. Cole",
-      "group": 0
+      "group": 0,
+      "photo": "img/j.-cole.jpg"
     },
     {
       "id": "The Weeknd",
-      "group": 0
+      "group": 0,
+      "photo": "img/the-weeknd.jpg"
     },
     {
       "id": "Justin Timberlake",
-      "group": 0
+      "group": 0,
+      "photo": "img/justin-timberlake.jpg"
     },
     {
       "id": "Sam Smith",
-      "group": 0
+      "group": 0,
+      "photo": "img/sam-smith.jpg"
     },
     {
       "id": "Nicki Minaj",
-      "group": 0
+      "group": 0,
+      "photo": "img/nicki-minaj.jpg"
     },
     {
       "id": "Demi Lovato",
-      "group": 0
+      "group": 0,
+      "photo": "img/demi-lovato.jpg"
     },
     {
       "id": "6ix9ine",
-      "group": 0
+      "group": 0,
+      "photo": "img/6ix9ine.jpg"
     },
     {
       "id": "Chris Stapleton",
-      "group": 0
+      "group": 0,
+      "photo": "img/chris-stapleton.jpg"
     },
     {
       "id": "Shawn Mendes",
-      "group": 0
+      "group": 0,
+      "photo": "img/shawn-mendes.jpg"
+    },
+    {
+      "id": "\ud83c\udf0e",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude31",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udd25",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude4f",
+      "group": 1
+    },
+    {
+      "id": "\u2705",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udde3",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf08",
+      "group": 1
+    },
+    {
+      "id": "\u270d",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc46",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc48",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udd74",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcbf",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfa7",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfb5",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfb6",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd83",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf42",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf41",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude14",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf89",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude06",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude2d",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude0d",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude11",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc4c",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfa4",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc96",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude4c",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfb8",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc4f",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd1e",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc83",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd17",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc93",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd14",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc76",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udca5",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udda4",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude43",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc0d",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc1d",
+      "group": 1
+    },
+    {
+      "id": "\u2728",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude02",
+      "group": 1
+    },
+    {
+      "id": "\u2764",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude1a",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude05",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd36",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd23",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude2e",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc80",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfac",
+      "group": 1
+    },
+    {
+      "id": "\u264e",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude29",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd2a",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd2d",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd26",
+      "group": 1
+    },
+    {
+      "id": "\u2642",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udca9",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc79",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude08",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf81",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd1f",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude1e",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude2a",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude28",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd37",
+      "group": 1
+    },
+    {
+      "id": "\u2640",
+      "group": 1
+    },
+    {
+      "id": "\u203c",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udd4a",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udde1",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd8b",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf92",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcbb",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude15",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc3b",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfbc",
+      "group": 1
+    },
+    {
+      "id": "\u2665",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude3b",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc95",
+      "group": 1
+    },
+    {
+      "id": "\u25b6",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udeec",
+      "group": 1
+    },
+    {
+      "id": "\u00a9",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc51",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcce",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc9c",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf0c",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf82",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf84",
+      "group": 1
+    },
+    {
+      "id": "\u2603",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf9f",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc41",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc2f",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc3f",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc40",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc31",
+      "group": 1
+    },
+    {
+      "id": "\u2600",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcf8",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf40",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfa5",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude48",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd24",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcf0",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcab",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf19",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcc6",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udccd",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf38",
+      "group": 1
+    },
+    {
+      "id": "\u2757",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude03",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf85",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude2b",
+      "group": 1
+    },
+    {
+      "id": "\u263a",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude00",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc36",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc3e",
+      "group": 1
+    },
+    {
+      "id": "\u26d4",
+      "group": 1
+    },
+    {
+      "id": "\u2714",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfb9",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf39",
+      "group": 1
+    },
+    {
+      "id": "\u26cf",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc73",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf6f",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcb0",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\uddda",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcb8",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd32",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcf9",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcf7",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udd08",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc9b",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc78",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude22",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcaa",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfc6",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc97",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude09",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf36",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udca8",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udd37",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcb5",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcec",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf99",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udca3",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udeac",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd40",
+      "group": 1
+    },
+    {
+      "id": "\u2935",
+      "group": 1
+    },
+    {
+      "id": "\u27b0",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd8d",
+      "group": 1
+    },
+    {
+      "id": "\u270a",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude24",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude0e",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\uddd4",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udeab",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udde2",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude99",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude42",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd2e",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\uddde",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcaf",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf8a",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc4a",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf4c",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf53",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude30",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude0f",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcf2",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcfb",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udcfa",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udca1",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd18",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc8b",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude18",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc85",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfa8",
+      "group": 1
+    },
+    {
+      "id": "\u2601",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc8d",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc81",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc9e",
+      "group": 1
+    },
+    {
+      "id": "\u2b07",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc8e",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udd8a",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc99",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udd1f",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc94",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd29",
+      "group": 1
+    },
+    {
+      "id": "\u2b50",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udd38",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf2a",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd47",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udca6",
+      "group": 1
+    },
+    {
+      "id": "\u2639",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc4d",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf0d",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude0a",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udfab",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc47",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf1f",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude0b",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd84",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd2c",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude21",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf6a",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude4a",
+      "group": 1
+    },
+    {
+      "id": "\u26a0",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd5b",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc45",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude49",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udd0e",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udea8",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude46",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udebe",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc9a",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc66",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc68",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc69",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\uddd1",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc67",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc71",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc72",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc74",
+      "group": 1
+    },
+    {
+      "id": "\u2763",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd28",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc10",
+      "group": 1
+    },
+    {
+      "id": "\u267f",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udca4",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\udc3a",
+      "group": 1
+    },
+    {
+      "id": "\u23f3",
+      "group": 1
+    },
+    {
+      "id": "\ud83d\ude32",
+      "group": 1
+    },
+    {
+      "id": "\ud83e\udd2f",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf46",
+      "group": 1
+    },
+    {
+      "id": "\ud83c\udf43",
+      "group": 1
     }
   ],
   "links": [
