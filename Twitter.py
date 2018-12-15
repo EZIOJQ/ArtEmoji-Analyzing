@@ -3,7 +3,6 @@ from alternate_advanced_caching import Cache
 from Scrap import *
 import emoji
 import base64
-import requests
 import os
 from Twitter_official import *
 
@@ -129,7 +128,6 @@ def whole_emoji_dict(artists_lst,tp):
                     continue
             whole_dict_sorted[each] = sorted(emoji_dict, key = lambda x: emoji_dict[x],reverse = True)[0]
         except :
-            print("No emoji Found")
             continue
     with open("whole_dict_{}.json".format(tp),"w") as f:
         f.write(json.dumps(whole_dict,indent = 4))
@@ -156,7 +154,6 @@ def main():
             artists_lst = Media("top artists").name
             whole_dict = whole_emoji_dict(artists_lst,"artists")[0]
             whole_dict_sorted = whole_emoji_dict(artists_lst, "artists")[1]
-            print(whole_dict_sorted)
             emoji_lst = whole_emoji_dict(artists_lst,"artists")[2]
             print("the name and most frequent emoji are:")
             for i in artists_lst:
@@ -181,7 +178,7 @@ def main():
     except:
         print("please input a right commend!")
 
-# main()
+main()
 
 
 
