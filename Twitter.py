@@ -90,7 +90,6 @@ def search_twitter(name):
         if Twitter_cache.get(unique_url) is None:
             twitter_data = requests.get(search_url, headers=search_headers, params=pd).json()
             html_text = twitter_data
-            print(twitter_data)
             Twitter_cache.set(unique_url, html_text, 30)
 
     return Twitter_cache.get(url)
