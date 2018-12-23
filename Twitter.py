@@ -20,6 +20,10 @@ lst_twitter_url = []
 
 def init_twitter(client_key, client_secret):
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e967cb005a2e6ffc8374909121c6301e10bac91d
     client_key = client_key
     client_secret = client_secret
 

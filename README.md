@@ -1,5 +1,4 @@
 # Jieqing Chen
-# SI508-Final project
 
 ## Please install the following libraries:
 * bs4
