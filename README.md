@@ -22,9 +22,14 @@ This project contains two different functions but both are based on twitter api:
 
 ## Sample Output
 * Sample output for d3 network graph of different emojis and artists.
+
 ![](https://github.com/EZIOJQ/ArtEmoji-Analyzing/blob/master/Sample_network_graph.png)
+
 * Image 'Sample_most_emoji' is the sample output of the command '1'
+
 ![](https://github.com/EZIOJQ/ArtEmoji-Analyzing/blob/master/Sample_most_emoji.png)
+
+
 
 ## Run Process
 
@@ -39,9 +44,6 @@ This project contains two different functions but both are based on twitter api:
 * Run Generatenood.py AFTER you have run the main file('Twitter.py') and make sure there are two files in the directory: 'whole_dict_artists.json' and 'whole_emoji_artists.json'
 * When 'network.json' has shown up, you need to start sever in this directory.
 * In your browser, go to 'http://0.0.0.0:8000/' to see the graph.
-
-#### Overview
-
 
 ## Main file overview:
 * Twitter.py: program the interactive command lines and generate necessary files for visualization.
