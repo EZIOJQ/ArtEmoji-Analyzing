@@ -17,10 +17,14 @@
 This project contains two different functions but both are based on twitter api:
 * Search the last 30 day twitter data to figure out which emoji people used most to describe an artist and a song.
 * The network graph will give you the network between all the emojis people are using to describe an artist or a song.
+* Three data sources used: Billboard, Twitter, d3.js
+* Caching for twitter data is in 'twitter_cache.json'. Scrapping caching file is 'Artists_cache.json', using codes from `alternative_advanced_caching.py`
 
 ## Sample Output
-* Image 'Sample_network_graph' is the sample output of d3 network graph of different emojis and artists.
+* Sample output for d3 network graph of different emojis and artists.
+![](https://github.com/EZIOJQ/ArtEmoji-Analyzing/blob/master/Sample_network_graph.png)
 * Image 'Sample_most_emoji' is the sample output of the command '1'
+![](https://github.com/EZIOJQ/ArtEmoji-Analyzing/blob/master/Sample_most_emoji.png)
 
 ## Run Process
 
@@ -36,15 +40,8 @@ This project contains two different functions but both are based on twitter api:
 * When 'network.json' has shown up, you need to start sever in this directory.
 * In your browser, go to 'http://0.0.0.0:8000/' to see the graph.
 
-#### Final project requirements meet: 
-* Three data sources used in total: Billboard, twitter api, d3.js
-* Caching for twitter is in 'twitter_cache.json'. For scrapping, caching file is 'Artists_cache.json', with the code of alternative_advanced_caching.py
-* Process API data into a color class, saved hex codes into color class, shade changes data into a nested dictionary
-* import modules bs4, datetime, emoji, os, base64
-* test file 'twitter_test.py' with 3 unittest.TestSuite subclasses and 10 test methods.
-* Produce a product as result of a visualization
-* Define 2 classes: Media, Emoji
-* Sample outputs included
+#### Overview
+
 
 ## Main file overview:
 * Twitter.py: program the interactive command lines and generate necessary files for visualization.
