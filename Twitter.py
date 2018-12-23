@@ -20,9 +20,7 @@ lst_twitter_url = []
 
 def init_twitter(client_key, client_secret):
 
-    # client_key = 'cRu8av1Z9ZThlZ1w89FCLe8MY'
     client_key = client_key
-    # client_secret = 'RGzsChyii5gh4fw3tZsXLFJcVkrSSesYmeLdvu4wRkcmbapbir'
     client_secret = client_secret
 
     key_secret = '{}:{}'.format(client_key, client_secret).encode('ascii')
