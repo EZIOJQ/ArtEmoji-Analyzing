@@ -1,5 +1,13 @@
 # Jieqing Chen
 
+
+## Project Overview
+This project contains two different functions but both are based on twitter api:
+* Search the last 30 day twitter data to figure out which emoji people used most to describe an artist and a song.
+* The network graph will give you the network between all the emojis people are using to describe an artist or a song.
+* Three data sources used: Billboard, Twitter, d3.js
+* Caching for twitter data is in 'twitter_cache.json'. Scrapping caching file is 'Artists_cache.json', using codes from `alternative_advanced_caching.py`
+
 ## Please install the following libraries:
 * bs4
 * requests
@@ -12,13 +20,6 @@
 ### Reminder:
 * For the emoji library, you can check this link to install: https://pypi.org/project/emoji
 * For the visual part, you need to run extra files, and start your local sever via using '$ python3 -m http.sever' in terminal.
-
-## Project Overview
-This project contains two different functions but both are based on twitter api:
-* Search the last 30 day twitter data to figure out which emoji people used most to describe an artist and a song.
-* The network graph will give you the network between all the emojis people are using to describe an artist or a song.
-* Three data sources used: Billboard, Twitter, d3.js
-* Caching for twitter data is in 'twitter_cache.json'. Scrapping caching file is 'Artists_cache.json', using codes from `alternative_advanced_caching.py`
 
 ## Sample Output
 * Sample output for d3 network graph of different emojis and artists.
